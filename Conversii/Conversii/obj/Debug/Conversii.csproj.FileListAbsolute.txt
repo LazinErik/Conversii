@@ -1,0 +1,7 @@
+D:\Facultate\Programare\Conversii\Conversii\bin\Debug\Conversii.exe.config
+D:\Facultate\Programare\Conversii\Conversii\bin\Debug\Conversii.exe
+D:\Facultate\Programare\Conversii\Conversii\bin\Debug\Conversii.pdb
+D:\Facultate\Programare\Conversii\Conversii\obj\Debug\Conversii.csproj.AssemblyReference.cache
+D:\Facultate\Programare\Conversii\Conversii\obj\Debug\Conversii.csproj.CoreCompileInputs.cache
+D:\Facultate\Programare\Conversii\Conversii\obj\Debug\Conversii.exe
+D:\Facultate\Programare\Conversii\Conversii\obj\Debug\Conversii.pdb
